@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+* {
+    font-family: "VT323" , monospace;
+    user-select: none;
+}
+
+body {
+    background-image:url() ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cookie {
+    max-width: 120px;
+    width: 100%; 
+    margin-left: 680px ;
+    margin-top: 100px;
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+#cookie:hover {
+    transform: scale(1.1);
+}
+
+#counter {
+    color: whitesmoke;
+    margin-left: 700px;
+}
