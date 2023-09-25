@@ -27,4 +27,13 @@ body {
 #counter {
     color: whitesmoke;
     margin-left: 700px;
+    size: 50px;
+}
+
+#clickUpgrade {
+    font-size: medium;
+    color: aliceblue;
+    background-color: black;
+    cursor: pointer;
+    margin-left: 660px;
 }
